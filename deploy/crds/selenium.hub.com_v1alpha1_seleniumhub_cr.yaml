@@ -1,0 +1,7 @@
+apiVersion: selenium.hub.com/v1alpha1
+kind: SeleniumHub
+metadata:
+  name: example-seleniumhub
+spec:
+  # Add fields here
+  size: 3
